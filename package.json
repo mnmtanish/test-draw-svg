@@ -1,0 +1,15 @@
+{
+  "name": "test-draw-svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "Muhammed Thanish <mnmtanish@gmail.com> (http://thanish.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
